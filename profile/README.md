@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+这是一个加强版的表格组件，能够有效的提高你的开发效率。
 <!--
 
 **Here are some ideas to get you started:**
